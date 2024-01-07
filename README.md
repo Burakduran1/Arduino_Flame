@@ -1,1 +1,1 @@
-[YAngın Alarmı] (https://drive.google.com/file/d/1uWr9wzA-ZlMJDyG0jFkyknTMB-zODg7F/view?usp=drive_link)
+![Açıklama](https://drive.google.com/file/d/1rsk_hzAC6tVOZC7BRpff2pE2xWofNwiN/view?usp=sharing)
