@@ -1,1 +1,1 @@
-![Açıklama](https://drive.google.com/file/d/1rsk_hzAC6tVOZC7BRpff2pE2xWofNwiN/view?usp=sharing)
+![Flame Sensörü Resmi](https://github.com/Burakduran1/Arduino_Flame/blob/main/flame%20sens%C3%B6r.png)
