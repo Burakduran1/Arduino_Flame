@@ -4,4 +4,4 @@
 ![Flame Sensörü Resmi](https://github.com/Burakduran1/Arduino_Flame/blob/main/png/Yang%C4%B1n%20Alarm%C4%B1-3.png)
 ![Flame Sensörü Resmi](https://github.com/Burakduran1/Arduino_Flame/blob/main/png/Yang%C4%B1n%20Alarm%C4%B1-4.png)
 ![Flame Sensörü Resmi](https://github.com/Burakduran1/Arduino_Flame/blob/main/png/Yang%C4%B1n%20Alarm%C4%B1-5.png)
-[Arduino Flame] (https://gist.github.com/Burakduran1/cb5d4f3bd9fdd84cbad79214b3a93b9e)
+
